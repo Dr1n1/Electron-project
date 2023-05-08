@@ -1,0 +1,19 @@
+{
+  "name": "electron",
+  "productName": "Image Resizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Drin",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^24.2.0",
+    "electronmon": "^2.0.2",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
